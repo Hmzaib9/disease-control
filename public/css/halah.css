@@ -1,0 +1,38 @@
+.ha-table{
+    width: 119%;
+}
+.ha-line-height{
+    line-height: 1;
+    
+}
+.ha-line-height .fa {
+    margin-right: 4px;
+}
+.ha-btn{
+    float: right;
+    position: relative;
+    bottom: 38px;
+}
+.ha-media-body :hover{
+    cursor: pointer;
+}
+.modal-fill .modal-content{
+    height: fit-content;
+    height: -webkit-fill-available;
+}
+
+.ha-form-group{
+    margin-bottom: 0px;
+    margin-top: 23px;
+}
+
+.ha-button{
+    margin-left: 17px;
+    margin-top: 17px;
+    font-size: 20px !important;
+
+}
+
+.ha-logo{
+    padding-left: 39%;
+}
